@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Datos.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Datos.pdb
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Datos.dll.config
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\Entidades.dll.config
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Negocio\obj\Debug\Negocio.pdb

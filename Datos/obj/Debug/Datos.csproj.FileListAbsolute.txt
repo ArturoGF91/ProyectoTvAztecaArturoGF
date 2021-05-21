@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\Datos.dll.config
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\Datos.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\Datos.pdb
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\Entidades.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\Entidades.pdb
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\Entidades.dll.config
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\obj\Debug\Datos.dll
+C:\Users\user\source\repos\ProyectoTvAztecaIrvingArturoGF\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Entidades.PersonalTvAzteca>
+
+<p>
+    @Html.ActionLink(" ", "Create",null, htmlAttributes: new { @class = "btn btn-info glyphicon glyphicon-user", @title = "Agregar" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdPersonal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PApellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SApellido)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdPersonal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PApellido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SApellido)
+        </td>
+        <td>
+            @Html.ActionLink("  ", "Actualizar", new { id=item.IdPersonal }, htmlAttributes: new {@class ="btn btn-warning glyphicon glyphicon-pencil", @title = "Actualizar" }) |
+            @Html.ActionLink(" ", "Consultar", new { id = item.IdPersonal }, htmlAttributes: new { @class = "btn btn-info glyphicon glyphicon-search", @title = "Consultar" }) |
+            @Html.ActionLink(" ", "Eliminar", new { id = item.IdPersonal }, htmlAttributes: new { @class = "btn btn-danger glyphicon glyphicon-trash", @title = "Eliminar" })
+        </td>
+    </tr>
+}
+
+</table>

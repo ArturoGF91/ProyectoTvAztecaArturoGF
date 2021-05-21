@@ -1,0 +1,50 @@
+﻿@model Entidades.PersonalTvAzteca
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PersonalTvAzteca</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdPersonal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdPersonal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PApellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PApellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SApellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SApellido)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Regresar", "Index")
+        </div>
+    }
+</div>

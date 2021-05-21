@@ -1,0 +1,50 @@
+﻿@model Entidades.PersonalTvAzteca
+
+@{
+    ViewBag.Title = "Consultar";
+}
+
+<h2>_Consultar</h2>
+
+<div>
+    <h4>PersonalTvAzteca</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdPersonal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdPersonal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PApellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PApellido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SApellido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SApellido)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink(" ", "Actualizar", new { id = Model.IdPersonal }, htmlAttributes: new { @class = "btn btn-warning glyphicon glyphicon-pencil", @title = "Actualizar" }) |
+    @Html.ActionLink("Regresar", "Index")
+</p>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TvAztecaIrvingModelStoreContainer" CdmEntityContainer="TvAztecaIrvingEntities">
+    <EntitySetMapping Name="PersonalTvAzteca">
+      <EntityTypeMapping TypeName="TvAztecaIrvingModel.PersonalTvAzteca">
+        <MappingFragment StoreEntitySet="PersonalTvAzteca">
+          <ScalarProperty Name="IdPersonal" ColumnName="IdPersonal" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="PApellido" ColumnName="PApellido" />
+          <ScalarProperty Name="SApellido" ColumnName="SApellido" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
